@@ -22,4 +22,4 @@ Programirati v Python-u osnovni matematičin kalkulator. Kalkulator mora biti sp
 <br>
 
 ### Koda:
-Koda se najaja v fileju [kalkulator.py](https://github.com/rostbear/kalkulator/blob/main/kalkulator.py)
+Koda se najaja v datoteki [kalkulator.py](https://github.com/rostbear/kalkulator/blob/main/kalkulator.py)
