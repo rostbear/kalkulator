@@ -10,7 +10,6 @@
 
 <br>
 
-
 ### Naslov:
 Osnovni matematični kalkulator (računalnik)
 
